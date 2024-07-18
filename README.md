@@ -39,8 +39,8 @@ The 'Gender' column was encoded using LabelEncoder. Features were normalized usi
 - XGBoost Classifier: Delivered robust performance with an AUC score of Z.
 
 ## 6. Conclusion
-Summarize key findings from model evaluations.
-Discuss implications for dental practice or future research directions based on the results.
+- Summarize key findings from model evaluations.
+- Discuss implications for dental practice or future research directions based on the results.
 
 ## 7. Future Work
 - Propose potential enhancements to the current models or additional features for better age prediction.
